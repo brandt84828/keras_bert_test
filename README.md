@@ -1,1 +1,1 @@
-試用看看bert模型
+Try BERT Model.
